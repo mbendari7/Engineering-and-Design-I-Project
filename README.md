@@ -1,4 +1,4 @@
-# TBWC – Test Bench Wheelchair Controller
+# TBWC – Teddy Bear Wheel Chair
 
 ## 📸 Project Images
 
